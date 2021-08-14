@@ -1,4 +1,10 @@
-# create-svelte
+# SvelteKit spike solution
+
+- [SvelteKit](https://kit.svelte.dev/)
+- Following the [startup documentation](https://kit.svelte.dev/docs#introduction-getting-started).
+
+
+
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
 
